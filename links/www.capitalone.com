@@ -1,0 +1,16 @@
+https://www.capitalone.com
+https://www.capitalone.com/facts2019/
+https://www.capitalone.com/credit-cards/venture/
+https://www.capitalone.com/credit-cards/savor-dining-rewards/
+https://www.capitalone.com/learn-grow/?external_id=COF01_HUB_HPBANNER_D99
+https://www.capitalone.com/credit-cards/
+https://www.capitalone.com/about/
+https://www.capitalone.com/applications/mobile/
+https://www.capitalone.com/bank/
+https://www.capitalone.com/commercial/
+https://www.capitalone.com/applications/eno/
+https://www.capitalone.com/legal/subpoena-policy/
+https://www.capitalone.com/about/accessibility-commitment/
+https://www.capitalone.com/support-center/
+https://www.capitalone.com/applications/alexa/?Log=1&EventType=Link&ComponentType=T&LOB=MTS::LCTMJBE8Z&PageName=Alexa%20terms%20and%20conditions&PortletLocation=4;16-col;2-1-1-2-1&ComponentName=Terms-and-conditionsN3w;9&ContentElement=4;Return%20to%20Capital%20One%20Skill&TargetLob=MTS::LCTMJBE8Z&TargetPageName=Capital%20One%20Skill%20New&referer=https:%2F%2Fwww.capitalone.com%2Fapplications%2Falexa%2Fterms
+https://www.capitalone.com/bank/fdic/

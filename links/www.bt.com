@@ -1,0 +1,12 @@
+https://www.bt.com
+https://www.bt.com/sport/tv
+https://www.bt.com/mobile/phones/
+https://www.bt.com/broadband/plus/
+https://www.bt.com/tv/add/
+https://www.bt.com/products/sport-bundles/
+https://www.bt.com/sport/
+https://www.bt.com/broadband/complete-wifi
+https://www.bt.com/help/home/new-customer-a.html
+https://www.bt.com/tv/packages
+https://www.bt.com/tv/packages/
+https://www.bt.com/sport

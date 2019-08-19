@@ -1,0 +1,12 @@
+https://www.tickets.com
+https://www.tickets.com/faq/
+https://www.tickets.com/arts-and-theater-tickets/
+https://www.tickets.com/sports-tickets/
+https://www.tickets.com/family-tickets/
+https://www.tickets.com/about-us/
+https://www.tickets.com/our-team/
+https://www.tickets.com/concert-tickets/
+https://www.tickets.com/customer-service/
+https://www.tickets.com/jobs/
+https://www.tickets.com/contact/
+https://www.tickets.com/tos/

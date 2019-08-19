@@ -1,0 +1,15 @@
+https://www.blastingnews.com
+https://www.blastingnews.com/editorial/
+https://www.blastingnews.com/about-us/
+https://www.blastingnews.com/about-us/mission-and-values/
+https://www.blastingnews.com/about-us/blasting-news-and-the-european-union-against-fake-news/
+https://www.blastingnews.com/staff/contributors/
+https://www.blastingnews.com/staff/diversity-policy/
+https://www.blastingnews.com/editorial/ethics-policy/
+https://www.blastingnews.com/editorial/verification-fact-checking-standards/
+https://www.blastingnews.com/editorial/unnamed-sources-policy/
+https://www.blastingnews.com/editorial/actionable-feedback-policy/
+https://www.blastingnews.com/editorial/corrections-policy/
+https://www.blastingnews.com/corporate/ownership-and-funding/
+https://www.blastingnews.com/about-us/contacts/
+https://www.blastingnews.com/privacy/

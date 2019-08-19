@@ -1,0 +1,16 @@
+https://www.fragrantica.com
+https://www.fragrantica.com/board/login.php
+https://www.fragrantica.com/search/
+https://www.fragrantica.com/country/
+https://www.fragrantica.com/parent-company/
+https://www.fragrantica.com/industry/
+https://www.fragrantica.com/ingredients-search/
+https://www.fragrantica.com/colors/
+https://www.fragrantica.com/awards/
+https://www.fragrantica.com/about-us.phtml
+https://www.fragrantica.com/awards2018/
+https://www.fragrantica.com/board/
+https://www.fragrantica.com/board/register.php
+https://www.fragrantica.com/perfume-reviews/
+https://www.fragrantica.com/Terms-of-Service.phtml
+https://www.fragrantica.com/privacy-policy.phtml

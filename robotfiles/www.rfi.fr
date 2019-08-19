@@ -1,0 +1,19 @@
+# France Medias Monde [2019-07-30] - francemediasmonde.com
+# ------------------- RFI.FR - HTTP ----------------------
+
+User-agent: *
+Disallow: /preview/
+Disallow: /redirect/
+Disallow: /ads/iframe*
+Disallow: /recherche/?Search
+Disallow: /поиск/?Search
+Disallow: /tìm-kiếm/?Search
+Disallow: /*?page=
+Disallow: /*&page=
+Disallow: /emissions/titlefilter=
+
+User-agent: Googlebot-News
+Disallow: /contenu/ticker/
+
+User-agent: bitlybot
+Disallow: /

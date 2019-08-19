@@ -1,0 +1,37 @@
+<!DOCTYPE HTML>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <!-- <title>Remita</title> -->
+  <title></title>
+  <base href="/">
+  <meta name="theme-color" content="#cb5937" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <title>Remita</title>
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700" rel="stylesheet">
+  <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+  <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+  <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+  <![endif]-->
+<link rel="stylesheet" href="styles.f1157b789c468ec44458.css"></head>
+
+<body id="body">
+  <app-root></app-root>
+
+  <script async defer src="assets/scripts/zoho.js"></script>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-109989744-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+    gtag('config', 'UA-109989744-1');
+  </script>
+<script type="text/javascript" src="runtime.723b5a46fec1a3f52d54.js"></script><script type="text/javascript" src="polyfills.0f4bd1e09ed0e3f214e1.js"></script><script type="text/javascript" src="scripts.e13ea874472c85efa8fa.js"></script><script type="text/javascript" src="main.40a35f83921c4794f4af.js"></script></body>
+
+</html>

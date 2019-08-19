@@ -1,0 +1,23 @@
+User-agent: *
+Disallow: /
+Disallow: /search?
+Allow: /$
+Allow: /?
+Allow: /nwshp$
+Allow: /news$
+Allow: /news/$
+Allow: /news/?gl=
+Allow: /news/?hl=
+Allow: /news/?ned=
+Allow: /about$
+Allow: /about?
+Allow: /about/
+Allow: /topics/
+Allow: /publications/
+Allow: /stories/
+Allow: /swg/
+
+User-agent: Googlebot
+Disallow: /topics/
+Disallow: /publications/
+Disallow: /stories/

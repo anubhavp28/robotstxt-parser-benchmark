@@ -1,0 +1,44 @@
+### BEGIN FILE ###
+#
+# allow-all
+# DR
+#
+# The use of robots or other automated means to access the eBay site
+# without the express permission of eBay is strictly prohibited.
+# Notwithstanding the foregoing, eBay may permit automated access to
+# access certain eBay pages but soley for the limited purpose of
+# including content in publicly available search engines. Any other
+# use of robots or failure to obey the robots exclusion standards set
+# forth at <http://www.robotstxt.org/ wc/ exclusion.html> is strictly
+# prohibited.
+# v3
+#
+
+User-agent: *
+Disallow: /*?maspect
+Disallow: /b/*LH_
+Disallow: /b/*?*_nkw
+Disallow: /b/*?*|
+Disallow: /b/*%EF
+Disallow: /help/confidence/
+Disallow: /help/policies/
+Disallow: /disney/
+Disallow: *rt=nc
+Disallow: /*rt%3Dnc
+Disallow: /ebayadvsearch/
+Noindex: /usr/*/all-follows
+Disallow: /usr/*/all-follows
+Noindex: /usr/*/followers
+Disallow: /usr/*/followers
+Disallow: /sch/*%EF
+Disallow: /sl/*bn_*?
+Disallow: /cta/
+Disallow: /e/*?
+
+# SSRP Sitemaps
+Sitemap: https://www.ebay.ie/lst/SSRP-205-index.xml
+
+# VIS Sitemaps
+Sitemap: https://www.ebay.ie/lst/VIS-205-index.xml
+
+### END FILE ###

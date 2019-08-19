@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /craft/
+Disallow: /poetrymagazine/index/
+Disallow: /library/desktop
+Disallow: /programs/library/desktop
+Disallow: /mobile-template/resources
+Disallow: /mobile-template/programs
+Disallow: /mobile-template/features
+Disallow: /harriet/tag/racism
+
+User-agent: CCBot
+Disallow: /

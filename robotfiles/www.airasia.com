@@ -1,0 +1,24 @@
+User-agent: *
+Disallow: /*/*/testdfp/
+Disallow: /*/*/test/
+Disallow: /_GARBAGE/
+Disallow: /travel3sixty/
+Disallow: /skylights/
+Disallow: /site/
+Disallow: /sto/
+Disallow: /nl/
+Disallow: /api/
+Disallow: /geoip/
+Disallow: /test/
+Disallow: /site/
+Disallow: /index.php
+Disallow: /booking/select/
+
+Sitemap: https://www.airasia.com/google-sitemap/sitemap.xml
+Sitemap: https://www.airasia.com/flights/zh/tw/sitemapindex.xml
+Sitemap: https://www.airasia.com/flights/zh/hk/sitemapindex.xml
+Sitemap: https://www.airasia.com/flights/ko/kr/sitemapindex.xml
+Sitemap: https://www.airasia.com/flights/zh/cn/sitemapindex.xml
+Sitemap: https://www.airasia.com/flights/id/id/sitemapindex.xml
+Sitemap: https://www.airasia.com/flights/th/th/sitemapindex.xml
+Sitemap: https://www.airasia.com/flights/sitemap.xml

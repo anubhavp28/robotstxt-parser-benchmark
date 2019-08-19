@@ -1,0 +1,12 @@
+https://www.biomedcentral.com
+https://www.biomedcentral.com/journals
+https://www.biomedcentral.com/getpublished
+https://www.biomedcentral.com/about
+https://www.biomedcentral.com/login
+https://www.biomedcentral.com/about/policies
+https://www.biomedcentral.com/accessibility
+https://www.biomedcentral.com/about/press-centre
+https://www.biomedcentral.com/about/jobs
+https://www.biomedcentral.com/terms-and-conditions
+https://www.biomedcentral.com/privacy-statement
+https://www.biomedcentral.com/cookies

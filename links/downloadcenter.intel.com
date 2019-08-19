@@ -1,0 +1,15 @@
+https://downloadcenter.intel.com
+https://downloadcenter.intel.com/product/80939/Graphics-Drivers
+https://downloadcenter.intel.com/product/98414/Mini-PCs
+https://downloadcenter.intel.com/product/59485/Wireless-Networking
+https://downloadcenter.intel.com/product/1201/Server-Products
+https://downloadcenter.intel.com/product/873/Processors
+https://downloadcenter.intel.com/product/36773/Ethernet-Products
+https://downloadcenter.intel.com/product/35125/Memory-and-Storage
+https://downloadcenter.intel.com/product/1125/Desktop-Boards
+https://downloadcenter.intel.com/download/28966/Intel-Rapid-Storage-Technology-Intel-RST-User-Interface-and-Driver?v=t
+https://downloadcenter.intel.com/download/25293/Intel-System-Support-Utility-for-Windows-?v=t
+https://downloadcenter.intel.com/download/28906/Intel-Wireless-Bluetooth-for-Windows-10?v=t
+https://downloadcenter.intel.com/download/28723/Intel-RealSense-D400-Series-Universal-Windows-Platform-UWP-Driver-for-Windows-10?v=t
+https://downloadcenter.intel.com/download/27150/INTEL-SA-00086-Detection-Tool?v=t
+https://downloadcenter.intel.com/download/28539/Intel-Processor-Identification-Utility-Windows-Version?v=t

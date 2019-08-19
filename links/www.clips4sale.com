@@ -1,0 +1,16 @@
+https://www.clips4sale.com
+https://www.clips4sale.com/clips/category/0/AllCategories
+https://www.clips4sale.com/cart
+https://www.clips4sale.com/clips/categories
+https://www.clips4sale.com/tag/C4SSultrySummer19
+https://www.clips4sale.com/clips/page/openastudio
+https://www.clips4sale.com/clips/page/privacypolicy
+https://www.clips4sale.com/clips/category/65/FACE-SITTING
+https://www.clips4sale.com/clips/category/201/FOOT-WORSHIP
+https://www.clips4sale.com/clips/category/104/BALLBUSTING
+https://www.clips4sale.com/clips/category/26/FEMALE-DOMINATION
+https://www.clips4sale.com/clips/category/23/GAY
+https://www.clips4sale.com/clips/page/compliancenotice
+https://www.clips4sale.com/clips/category/883/TABOO
+https://www.clips4sale.com/clips/category/42/EBONY
+https://www.clips4sale.com/clips/page/dmca

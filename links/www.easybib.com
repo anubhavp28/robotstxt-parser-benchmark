@@ -1,0 +1,14 @@
+https://www.easybib.com
+https://www.easybib.com/grammar-and-plagiarism/
+https://www.easybib.com/upgrade
+http://www.easybib.com/guides/miss-easybib-for-schools-then-this-is-for-you/
+https://www.easybib.com/style
+http://www.easybib.com/guides/citation-guides/mla-format/
+http://www.easybib.com/guides/citation-guides/chicago-turabian/
+http://www.easybib.com/guides/citation-guides/apa-format/
+http://www.easybib.com/guides/
+http://www.easybib.com/guides/category/blog-posts/
+http://www.easybib.com/guides/blog/
+http://www.easybib.com/guides/?from=footer
+http://www.easybib.com/sitemap
+http://www.easybib.com/guides/cookie-notice/

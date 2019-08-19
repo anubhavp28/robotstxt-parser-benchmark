@@ -1,0 +1,86 @@
+#block all user agents from the following
+User-agent: *
+Disallow: /solr/
+Disallow: *solrSearch*
+Disallow: /episerver
+Disallow: /episerver/
+Disallow: /util/
+Disallow: /us/storage/*
+Disallow: /ca/storage/*
+Disallow: /mx/storage/*
+
+Disallow: /council/Charity-Reviews/type/
+Disallow: /council/Charity-Reviews/name/
+Disallow: /council/Charity-Reviews/matched/
+Disallow: /council/Charity-Reviews/phone/
+Disallow: /council/Charity-Reviews/email/
+Disallow: /council/Charity-Reviews/url/
+Disallow: /council/Find-Business-Reviews/type/
+Disallow: /council/Find-Business-Reviews/name/
+Disallow: /council/Find-Business-Reviews/matched/
+Disallow: /council/Find-Business-Reviews/phone/
+Disallow: /council/Find-Business-Reviews/email/
+Disallow: /council/Find-Business-Reviews/url/
+Disallow: /council/Business-Search/type/
+Disallow: /council/Business-Search/name/
+Disallow: /council/Business-Search/matched/
+Disallow: /council/Business-Search/phone/
+Disallow: /council/Business-Search/email/
+Disallow: /council/Business-Search/url/
+
+Disallow: /council/Charity-Reviews/type/
+Disallow: /council/Charity-Reviews/name/
+Disallow: /council/Charity-Reviews/matched/
+Disallow: /council/Charity-Reviews/phone/
+Disallow: /council/Charity-Reviews/email/
+Disallow: /council/Charity-Reviews/url/
+Disallow: /council/Find-Business-Reviews/type/
+Disallow: /council/Find-Business-Reviews/name/
+Disallow: /council/Find-Business-Reviews/matched/
+Disallow: /council/Find-Business-Reviews/phone/
+Disallow: /council/Find-Business-Reviews/email/
+Disallow: /council/Find-Business-Reviews/url/
+Disallow: /council/Business-Search/type/
+Disallow: /council/Business-Search/name/
+Disallow: /council/Business-Search/matched/
+Disallow: /council/Business-Search/phone/
+Disallow: /council/Business-Search/email/
+Disallow: /council/Business-Search/url/
+Disallow: */accredited-business-directory/*? 
+Disallow: /search/*? 
+Disallow: */search/*? 
+Disallow: */search?
+Disallow: /test-all-page
+Disallow: *?*
+Allow:/scamtracker/*?*
+Allow:/us/*/*/profile/*/*?*
+Allow:/ca/*/*/profile/*/*?*
+
+sitemap: https://www.bbb.org/sitemap-business-profiles-index.xml
+sitemap: https://www.bbb.org/sitemap-accredited-business-profiles-index.xml
+sitemap: https://www.bbb.org/sitemap-articles-index.xml
+sitemap: https://www.bbb.org/sitemap-nearme-articles-index.xml
+sitemap: https://www.bbb.org/sitemap-events-index.xml
+sitemap: https://www.bbb.org/sitemap-ca-categories-index.xml
+sitemap: https://www.bbb.org/sitemap-accredited-ca-categories-index.xml
+sitemap: https://www.bbb.org/sitemap-us-categories-index.xml
+sitemap: https://www.bbb.org/sitemap-accredited-us-categories-index.xml
+sitemap: https://www.bbb.org/sitemap-ca-province-categories-index.xml
+sitemap: https://www.bbb.org/sitemap-accredited-ca-province-categories-index.xml
+sitemap: https://www.bbb.org/sitemap-us-state-categories-index.xml
+sitemap: https://www.bbb.org/sitemap-accredited-us-state-categories-index.xml
+sitemap: https://www.bbb.org/sitemap-ca-city-categories-index.xml
+sitemap: https://www.bbb.org/sitemap-accredited-ca-city-categories-index.xml
+sitemap: https://www.bbb.org/sitemap-us-city-categories-index.xml
+sitemap: https://www.bbb.org/sitemap-accredited-us-city-categories-index.xml
+sitemap: https://www.bbb.org/sitemap-ca-provinces-index.xml
+sitemap: https://www.bbb.org/sitemap-us-states-index.xml
+sitemap: https://www.bbb.org/sitemap-ca-cities-index.xml
+sitemap: https://www.bbb.org/sitemap-us-cities-index.xml
+
+sitemap: https://www.bbb.org/scamtracker/sitemap_1.xml
+sitemap: https://www.bbb.org/scamtracker/sitemap_2.xml
+sitemap: https://www.bbb.org/scamtracker/sitemap_3.xml
+sitemap: https://www.bbb.org/scamtracker/sitemap_4.xml
+sitemap: https://www.bbb.org/scamtracker/sitemap_5.xml
+sitemap: https://www.bbb.org/scamtracker/sitemap.xml

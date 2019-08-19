@@ -1,0 +1,15 @@
+https://www.klm.com
+https://www.klm.com/home/de/de
+https://www.klm.com/home/nl/nl
+https://www.klm.com/home/no/no
+https://www.klm.com/home/gb/en
+https://www.klm.com/home/us/en
+https://www.klm.com/en-us/flights
+https://www.klm.com/nl-nl/vliegtickets
+https://www.klm.com/de-de/fluege
+https://www.klm.com/en-gb/flights
+https://www.klm.com/travel/gb_en/customer_support/legal_notice/index.htm
+https://www.klm.com/travel/nl_nl/customer_support/customer_support/legal_information/index.htm
+https://www.klm.com/fr-fr/vols
+https://www.klm.com/travel/generic/countries.html
+https://www.klm.com/es-es/vuelos

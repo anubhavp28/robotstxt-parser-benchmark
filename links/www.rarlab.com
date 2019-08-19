@@ -1,0 +1,16 @@
+https://www.rarlab.com
+https://www.rarlab.com/cookies.htm
+https://www.rarlab.com/registration.php
+https://www.rarlab.com/rar_archiver.htm
+https://www.rarlab.com/themes.htm
+https://www.rarlab.com/rar_add.htm
+https://www.rarlab.com/download.htm
+https://www.rarlab.com/rarnew.htm
+https://www.rarlab.com/misc.htm
+https://www.rarlab.com/feedback.htm
+https://www.rarlab.com/rar_file.htm
+https://www.rarlab.com/zip_file.htm
+https://www.rarlab.com/otherfmt.htm
+https://www.rarlab.com/shop2rarlab-index.php?prod=winrar&x-source=winraronly
+https://www.rarlab.com/buysharewarecd.php?x-source=sharewarecd
+https://www.rarlab.com/shoprarlab.php

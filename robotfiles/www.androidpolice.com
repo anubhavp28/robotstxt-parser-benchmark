@@ -1,0 +1,20 @@
+User-agent: Mediapartners-Google
+User-agent: AdsBot-Google
+Disallow:
+
+User-agent: *
+Disallow: */comment-page-1*
+Allow: /
+
+User-agent: HuaweiSymantecSpider
+User-agent: ClickSense
+User-agent: 008
+User-agent: 80legs
+User-agent: MJ12bot
+User-agent: crawler4j
+Disallow: / 
+
+User-agent: Yandex
+Crawl-delay: 10 # sets a 10 second time-out
+
+Sitemap: https://www.androidpolice.com/sitemap_index.xml

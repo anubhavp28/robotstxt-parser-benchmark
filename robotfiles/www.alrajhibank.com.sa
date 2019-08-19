@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+Disallow: */privacy.aspx
+Disallow: */security.aspx
+Disallow: */history.htm
+Disallow: */alrajhi_results.aspx?k=
+
+User-Agent: MJ12bot
+Disallow: /
+
+
+Sitemap:https://www.alrajhibank.com.sa/sitemap.xml

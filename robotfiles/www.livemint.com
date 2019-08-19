@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+Disallow: /Object/DA0yZYT1mFs1NaiDueSvBP/dashboard.html
+Disallow: /Object/FjDTkjBmbjPylZPtjdfocJ/dashboard.html
+Disallow: /Object/NRItzKXDWQ01wSRYBec2bK/approve-subscribers.html
+Disallow: /Object/5FRQEn6WdzPZx95TNmgRgJ/submit-approved-subscribers.html
+Disallow: /queryResult/DashBoardResult
+Disallow: /Politics/qGhqEUxkwY1XCf44StpdPM/Asaram-Bapu-From-building-an-empire-of-Rs-10000-crore-to-b.html
+Disallow: /Politics/qGhqEUxkwY1XCf44StpdPM/Asaram-Bapu-From-building-an-empire-of-Rs-10000-crore-to-b.html?facet=amp&utm_source=googleamp&utm_medium=referral&utm_campaign=googleamp
+Disallow: /*?type=card
+Disallow: /*?type=list
+Disallow: /*?type=collection

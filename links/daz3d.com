@@ -1,0 +1,13 @@
+https://daz3d.com
+https://daz3d.com/get_studio
+https://daz3d.com/hexagon-3d-modeling-free
+https://daz3d.com/genesis8
+https://daz3d.com/daz_studio
+https://daz3d.com/daz-to-maya
+https://daz3d.com/community/community-affiliate-program
+https://daz3d.com/help/help-contact-us
+https://daz3d.com/eula
+https://daz3d.com/shop
+https://daz3d.com/privacy-policy
+https://daz3d.com/community/community-publishing
+https://daz3d.com/terms-of-service

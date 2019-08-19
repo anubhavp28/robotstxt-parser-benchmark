@@ -1,0 +1,16 @@
+https://www.djangoproject.com
+https://www.djangoproject.com/start/overview/
+https://www.djangoproject.com/foundation/
+https://www.djangoproject.com/start/
+https://www.djangoproject.com/community/
+https://www.djangoproject.com/weblog/2019/aug/01/security-releases/
+https://www.djangoproject.com/foundation/donate/
+https://www.djangoproject.com/download/
+https://www.djangoproject.com/weblog/2019/jul/20/first-pycon-africa/
+https://www.djangoproject.com/conduct/
+https://www.djangoproject.com/weblog/
+https://www.djangoproject.com/diversity/
+https://www.djangoproject.com/trademarks/
+https://www.djangoproject.com/fundraising/
+https://www.djangoproject.com/rss/weblog/
+https://www.djangoproject.com/contact/foundation/

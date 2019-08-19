@@ -1,0 +1,15 @@
+https://basecamp.com
+https://basecamp.com/how-it-works
+https://basecamp.com/pricing
+https://basecamp.com/learn
+https://basecamp.com/support
+https://basecamp.com/signup
+https://basecamp.com/features/clients
+https://basecamp.com/via
+https://basecamp.com/about
+https://basecamp.com/books
+https://basecamp.com/newsletter
+https://basecamp.com/about/policies
+https://basecamp.com/uptime/bc3
+https://basecamp.com/customers
+https://basecamp.com/features

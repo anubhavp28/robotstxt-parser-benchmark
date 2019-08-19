@@ -1,0 +1,17 @@
+https://pydata.org
+https://pydata.org/organize-a-conference/
+https://pydata.org/event-schedule/
+https://pydata.org/volunteer/
+https://pydata.org/code-of-conduct/
+https://pydata.org/start-a-meetup/
+https://pydata.org/faqs/
+https://pydata.org/about/
+https://pydata.org/job-board/
+https://pydata.org/cordoba2019/
+https://pydata.org/diversity-inclusion/
+https://pydata.org/nyc2019/
+https://pydata.org/sponsor-pydata/
+https://pydata.org/la2019/
+https://pydata.org/warsaw2019/
+https://pydata.org/events/pydata-cambridge/
+https://pydata.org/eindhoven2019/

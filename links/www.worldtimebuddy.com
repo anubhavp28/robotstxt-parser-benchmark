@@ -1,0 +1,12 @@
+https://www.worldtimebuddy.com
+https://www.worldtimebuddy.com/features
+https://www.worldtimebuddy.com/clock-widget
+https://www.worldtimebuddy.com/event-widgets
+https://www.worldtimebuddy.com/mobile-app
+https://www.worldtimebuddy.com/kst-to-est-converter
+https://www.worldtimebuddy.com/provider/conventional_login
+https://www.worldtimebuddy.com/about
+https://www.worldtimebuddy.com/pricing
+https://www.worldtimebuddy.com/feedback
+https://www.worldtimebuddy.com/privacy
+https://www.worldtimebuddy.com/tos

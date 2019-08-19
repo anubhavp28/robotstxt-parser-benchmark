@@ -1,0 +1,14 @@
+https://xkcd.com
+https://xkcd.com/how-to/
+https://xkcd.com/atom.xml
+https://xkcd.com/newsletter/
+https://xkcd.com/1/
+https://xkcd.com/150/
+https://xkcd.com/730/
+https://xkcd.com/2187/
+https://xkcd.com/688/
+https://xkcd.com/556/
+https://xkcd.com/162/
+https://xkcd.com/1732/
+https://xkcd.com/rss.xml
+https://xkcd.com/license.html

@@ -1,0 +1,14 @@
+https://www.walmart.com
+https://www.walmart.com/cart
+https://www.walmart.com/cp/back-to-school/1071204?athcpid=11f8076b-f777-44b9-9213-a77c17c600f1&athpgid=athenaHomepage&athznid=athenaModuleZone&athmtid=AthenaPOVCarouselStory&athtvid=1&athena=true&athstid=CS011%7CCS041&athftid=P0000&athguid=466001f5-46cfa622-17069c3b9a18a716
+https://www.walmart.com/ip/LEGO-Creator-Treehouse-Treasures-31078/206718784?athcpid=206718784&athpgid=athenaHomepage&athcgid=null&athznid=CC_Trending&athieid=&athstid=CS031&athguid=466001f5-46cfa622-17069c3b9a18a716&athena=true
+https://www.walmart.com/cp/earth-to-skin/7286995
+https://www.walmart.com/ip/Dell-15-Gaming-Backpack-50KD6/722726616?athcpid=722726616&athpgid=athenaHomepage&athcgid=null&athznid=CC_Trending&athieid=&athstid=CS031&athguid=466001f5-46cfa622-17069c3b9a18a716&athena=true
+https://www.walmart.com/cp/walmart-mobile-app/1087865
+https://www.walmart.com/cp/walmart-money-center/5433
+https://www.walmart.com/cp/walmart-pay/3205993
+https://www.walmart.com/cp/Walmart-Credit-Card/632402
+https://www.walmart.com/cp/services/6163033
+https://www.walmart.com/cp/store-pickup/2281929
+https://www.walmart.com/cp/ellenslist/9190286
+https://www.walmart.com/cp/clothing/5438

@@ -1,0 +1,14 @@
+https://git-scm.com
+https://git-scm.com/about/free-and-open-source
+https://git-scm.com/about/staging-area
+https://git-scm.com/doc
+https://git-scm.com/about/branching-and-merging
+https://git-scm.com/about/distributed
+https://git-scm.com/about
+https://git-scm.com/downloads
+https://git-scm.com/community
+https://git-scm.com/downloads/guis
+https://git-scm.com/about/small-and-fast
+https://git-scm.com/download/win
+https://git-scm.com/sfc
+https://git-scm.com/site

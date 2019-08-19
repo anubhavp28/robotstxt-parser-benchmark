@@ -1,0 +1,160 @@
+User-agent: Googlebot
+Disallow: /_ads/_static/xml/
+Disallow: /jobs/20*
+Disallow: /en/job-search/job-vacancy.php?*&src=46
+Disallow: /en/job-search/low-application/
+Disallow: /en/job-search/company/wuerth-industrial-services-malaysia-sdn-bhd-jobs/
+
+User-agent: Bingbot
+Disallow: /_ads/_static/xml/
+Disallow: /jobs/20*
+Disallow: /en/job-search/job-vacancy.php?*&src=46
+Disallow: /en/job-search/low-application/
+Disallow: /en/job-search/company/wuerth-industrial-services-malaysia-sdn-bhd-jobs/
+
+User-agent: Slurp
+Disallow: /_ads/_static/xml/
+Disallow: /jobs/20*
+Disallow: /en/job-search/job-vacancy.php?*&src=46
+Disallow: /en/job-search/low-application/
+Disallow: /en/job-search/company/wuerth-industrial-services-malaysia-sdn-bhd-jobs/
+
+User-agent: Teoma
+Disallow: /_ads/_static/xml/
+Disallow: /jobs/20*
+Disallow: /en/job-search/job-vacancy.php?*&src=46
+Disallow: /en/job-search/low-application/
+Disallow: /en/job-search/company/wuerth-industrial-services-malaysia-sdn-bhd-jobs/
+
+User-agent: TwitterBot
+Disallow: /_ads/_static/xml/
+Disallow: /jobs/20*
+Disallow: /en/job-search/job-vacancy.php?*&src=46
+Disallow: /en/job-search/low-application/
+Disallow: /en/job-search/company/wuerth-industrial-services-malaysia-sdn-bhd-jobs/
+
+User-agent: Baiduspider
+Disallow: /_ads/_static/xml/
+Disallow: /jobs/20*
+Disallow: /en/job-search/job-vacancy.php?*&src=46
+Disallow: /en/job-search/low-application/
+Disallow: /en/job-search/company/wuerth-industrial-services-malaysia-sdn-bhd-jobs/
+
+User-agent: RogerBot
+Disallow: /_ads/_static/xml/
+Disallow: /jobs/20*
+Disallow: /en/job-search/job-vacancy.php?*&src=46
+Disallow: /en/job-search/low-application/
+Disallow: /en/job-search/company/wuerth-industrial-services-malaysia-sdn-bhd-jobs/
+
+User-agent: Mediapartners-Google
+Disallow: /_ads/_static/xml/
+Disallow: /jobs/20*
+Disallow: /en/job-search/job-vacancy.php?*&src=46
+Disallow: /en/job-search/low-application/
+Disallow: /en/job-search/company/wuerth-industrial-services-malaysia-sdn-bhd-jobs/
+
+User-agent: Blekkobot
+Disallow: /_ads/_static/xml/
+Disallow: /jobs/20*
+Disallow: /en/job-search/job-vacancy.php?*&src=46
+Disallow: /en/job-search/low-application/
+Disallow: /en/job-search/company/wuerth-industrial-services-malaysia-sdn-bhd-jobs/
+
+User-agent: DuckDuckBot
+Disallow: /_ads/_static/xml/
+Disallow: /jobs/20*
+Disallow: /en/job-search/job-vacancy.php?*&src=46
+Disallow: /en/job-search/low-application/
+Disallow: /en/job-search/company/wuerth-industrial-services-malaysia-sdn-bhd-jobs/
+
+User-agent: speedy_spider
+Disallow: /_ads/_static/xml/
+Disallow: /jobs/20*
+Disallow: /en/job-search/job-vacancy.php?*&src=46
+Disallow: /en/job-search/low-application/
+Disallow: /en/job-search/company/wuerth-industrial-services-malaysia-sdn-bhd-jobs/
+
+User-agent: ArchitextSpider
+Disallow: /_ads/_static/xml/
+Disallow: /jobs/20*
+Disallow: /en/job-search/job-vacancy.php?*&src=46
+Disallow: /en/job-search/low-application/
+Disallow: /en/job-search/company/wuerth-industrial-services-malaysia-sdn-bhd-jobs/
+
+User-agent: Lycos_Spider_(T-Rex)
+Disallow: /_ads/_static/xml/
+Disallow: /jobs/20*
+Disallow: /en/job-search/job-vacancy.php?*&src=46
+Disallow: /en/job-search/low-application/
+Disallow: /en/job-search/company/wuerth-industrial-services-malaysia-sdn-bhd-jobs/
+
+User-agent: YandexBot
+Disallow: /_ads/_static/xml/
+Disallow: /jobs/20*
+Disallow: /en/job-search/job-vacancy.php?*&src=46
+Disallow: /en/job-search/low-application/
+Disallow: /en/job-search/company/wuerth-industrial-services-malaysia-sdn-bhd-jobs/
+
+User-agent: MantraAgent
+Disallow: /_ads/_static/xml/
+Disallow: /jobs/20*
+Disallow: /en/job-search/job-vacancy.php?*&src=46
+Disallow: /en/job-search/low-application/
+Disallow: /en/job-search/company/wuerth-industrial-services-malaysia-sdn-bhd-jobs/
+
+User-agent: ExaBot
+Disallow: /_ads/_static/xml/
+Disallow: /jobs/20*
+Disallow: /en/job-search/job-vacancy.php?*&src=46
+Disallow: /en/job-search/low-application/
+Disallow: /en/job-search/company/wuerth-industrial-services-malaysia-sdn-bhd-jobs/
+
+User-agent: Sosospider
+Disallow: /_ads/_static/xml/
+Disallow: /jobs/20*
+Disallow: /en/job-search/job-vacancy.php?*&src=46
+Disallow: /en/job-search/low-application/
+Disallow: /en/job-search/company/wuerth-industrial-services-malaysia-sdn-bhd-jobs/
+
+User-agent: Butterfly
+Disallow: /_ads/_static/xml/
+Disallow: /jobs/20*
+Disallow: /en/job-search/job-vacancy.php?*&src=46
+Disallow: /en/job-search/low-application/
+Disallow: /en/job-search/company/wuerth-industrial-services-malaysia-sdn-bhd-jobs/
+
+User-agent: ia_archiver
+Disallow: /_ads/_static/xml/
+Disallow: /jobs/20*
+Disallow: /en/job-search/job-vacancy.php?*&src=46
+Disallow: /en/job-search/low-application/
+Disallow: /en/job-search/company/wuerth-industrial-services-malaysia-sdn-bhd-jobs/
+
+User-agent: MJ12bot
+Disallow: /_ads/_static/xml/
+Disallow: /jobs/20*
+Disallow: /en/job-search/job-vacancy.php?*&src=46
+Disallow: /en/job-search/low-application/
+Disallow: /en/job-search/company/wuerth-industrial-services-malaysia-sdn-bhd-jobs/
+
+User-agent: Omgilibot
+Disallow: /_ads/_static/xml/
+Disallow: /jobs/20*
+Disallow: /en/job-search/job-vacancy.php?*&src=46
+Disallow: /en/job-search/low-application/
+Disallow: /en/job-search/company/wuerth-industrial-services-malaysia-sdn-bhd-jobs/
+
+User-agent: Yeti/Naverbot
+Disallow: /_ads/_static/xml/
+Disallow: /jobs/20*
+Disallow: /en/job-search/job-vacancy.php?*&src=46
+Disallow: /en/job-search/low-application/
+Disallow: /en/job-search/company/wuerth-industrial-services-malaysia-sdn-bhd-jobs/
+
+User-agent: CariBot
+Disallow: /
+
+User-agent: *
+Disallow: /
+

@@ -1,0 +1,13 @@
+https://www.mediafire.com
+https://www.mediafire.com/help/submit_a_ticket.php
+https://www.mediafire.com/help/
+https://www.mediafire.com/software/
+https://www.mediafire.com/about/jobs.php
+https://www.mediafire.com/software/mobile/
+https://www.mediafire.com/advertising/
+https://www.mediafire.com/press/
+https://www.mediafire.com/policies/privacy_policy.php
+https://www.mediafire.com/policy_violation/copyright.php
+https://www.mediafire.com/policies/terms_of_service.php
+https://www.mediafire.com/policy_violation/terms_of_service.php
+https://www.mediafire.com/credits/

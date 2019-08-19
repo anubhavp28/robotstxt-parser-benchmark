@@ -1,0 +1,13 @@
+https://www.totalwar.com
+https://www.totalwar.com/blog/
+https://www.totalwar.com/games/
+https://www.totalwar.com/blog/a-total-war-saga-fall-of-the-samurai/
+https://www.totalwar.com/blog/total-war-three-kingdoms-patch-1-2-0-eight-princes/
+https://www.totalwar.com/support/
+https://www.totalwar.com/blog/netease-deal-more-information-and-answers/
+https://www.totalwar.com/games/three-kingdoms/eight-princes/
+https://www.totalwar.com/blog/the-amethyst-update/
+https://www.totalwar.com/games/warhammer-ii/prophet-and-the-warlock/
+https://www.totalwar.com/blog/total-war-three-kingdoms-launch-faq/
+https://www.totalwar.com/blog/total-war-three-kingdoms-content-recap/
+https://www.totalwar.com/blog/total-war-three-kingdoms-steam-achievements/

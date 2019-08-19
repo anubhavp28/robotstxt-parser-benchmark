@@ -1,0 +1,11 @@
+https://www.wikidot.com
+https://www.wikidot.com/more:explore-features
+https://www.wikidot.com/plans
+http://www.wikidot.com/legal:terms-of-service
+http://www.wikidot.com/legal:privacy-policy
+https://www.wikidot.com/more:testimonials
+https://www.wikidot.com/advertise
+https://www.wikidot.com/about
+https://www.wikidot.com/legal:privacy-policy
+https://www.wikidot.com/legal:terms-of-service
+https://www.wikidot.com/features

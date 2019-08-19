@@ -1,0 +1,14 @@
+https://www.bdjobs.com
+https://www.bdjobs.com/contact.asp
+https://www.bdjobs.com/career/CareerGuide/
+https://www.bdjobs.com/career/resumewriting/resume.asp
+https://www.bdjobs.com/contact.asp?lanset=eng
+https://www.bdjobs.com/career/article/
+https://www.bdjobs.com/career/interview/
+https://www.bdjobs.com/apps/index.html
+https://www.bdjobs.com/bn/defaultbn.asp
+https://www.bdjobs.com/tos.asp
+https://www.bdjobs.com/policy/Privacy_policy.asp
+https://www.bdjobs.com/apps/ios/index.html
+https://www.bdjobs.com/apps_helper/default_oldapps.asp
+https://www.bdjobs.com/about.asp

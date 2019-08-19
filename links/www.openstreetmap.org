@@ -1,0 +1,10 @@
+https://www.openstreetmap.org
+https://www.openstreetmap.org/directions
+https://www.openstreetmap.org/edit?editor=remote
+https://www.openstreetmap.org/export
+https://www.openstreetmap.org/history
+https://www.openstreetmap.org/traces
+https://www.openstreetmap.org/copyright
+https://www.openstreetmap.org/help
+https://www.openstreetmap.org/diary
+https://www.openstreetmap.org/about

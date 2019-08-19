@@ -1,0 +1,14 @@
+https://www.chanel.com
+https://www.chanel.com/en_WW/fragrance-beauty/fragrance/c/chanel-parfumeur.html
+https://www.chanel.com/en_WW/fragrance-beauty/makeup/c/ultra-le-teint.html
+https://www.chanel.com/en_WW/watches-jewelry/exceptional-pieces/high-jewelry/paris-russe
+https://www.chanel.com/en_WW/watches-jewelry/watches/the-faces-j12
+https://www.chanel.com/en_WW/fashion/haute-couture/fall-winter-2019-20.html
+https://www.chanel.com/en_WW/fragrance-beauty/skincare/c/cleansers.html
+https://www.chanel.com/en_WW/fashion/haute-couture.html
+https://www.chanel.com/en_WW/watches-jewelry/fine-jewelry
+https://www.chanel.com/en_WW/watches-jewelry/watches
+https://www.chanel.com/en_WW/fragrance-beauty/fragrance.html
+https://www.chanel.com/en_WW/fashion.html
+https://www.chanel.com/en_WW/fragrance-beauty/makeup.html
+https://www.chanel.com/en_WW/fragrance-beauty/skincare.html

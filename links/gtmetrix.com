@@ -1,0 +1,16 @@
+https://gtmetrix.com
+https://gtmetrix.com/features.html
+https://gtmetrix.com/pro/
+https://gtmetrix.com/blog/category/changes/
+https://gtmetrix.com/resources.html
+https://gtmetrix.com/blog/
+https://gtmetrix.com/locations.html
+https://gtmetrix.com/blog/why-you-need-to-monitor-your-site-for-performance/
+https://gtmetrix.com/top1000.html
+https://gtmetrix.com/contact.html
+https://gtmetrix.com/faq.html
+https://gtmetrix.com/about.html
+https://gtmetrix.com/careers.html
+https://gtmetrix.com/terms-of-service.html
+https://gtmetrix.com/privacy-policy.html
+https://gtmetrix.com/api/

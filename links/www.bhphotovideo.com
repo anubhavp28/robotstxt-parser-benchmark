@@ -1,0 +1,10 @@
+https://www.bhphotovideo.com
+https://www.bhphotovideo.com/find/gsa.jsp
+https://www.bhphotovideo.com/find/eGiftCard.jsp
+https://www.bhphotovideo.com/find/HelpCenter/helpcenter.jsp
+https://www.bhphotovideo.com/find/liveChat.jsp?cm_sp=Live%60Chat-_-AllPages~Header-_-Live~Chat
+https://www.bhphotovideo.com/find/HelpCenter/AboutUs.jsp
+https://www.bhphotovideo.com/explora/
+https://www.bhphotovideo.com/find/eduAdvantage.jsp
+https://www.bhphotovideo.com/explora/video/news/blackmagic-design-announces-pocket-cinema-camera-6k-with-ef-mount
+https://www.bhphotovideo.com/email/current_newsletter.html

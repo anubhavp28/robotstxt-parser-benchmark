@@ -1,0 +1,12 @@
+https://www.mercola.com
+https://www.mercola.com/nutritionplan/index.htm
+https://www.mercola.com/downloads/bonus/free-reports.htm
+https://www.mercola.com/forms/background.htm
+https://www.mercola.com/employment/index.aspx
+https://www.mercola.com/contact-us.htm
+https://www.mercola.com/Citations/index.htm
+https://www.mercola.com/forget-facebook.htm
+https://www.mercola.com/Help/faq/community.htm
+https://www.mercola.com/pressroom/about.htm
+https://www.mercola.com/downloads/podcast.htm
+https://www.mercola.com/Downloads/bonus/free-reports.aspx

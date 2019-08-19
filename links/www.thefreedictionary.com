@@ -1,0 +1,13 @@
+https://www.thefreedictionary.com
+https://www.thefreedictionary.com/download.htm
+https://www.thefreedictionary.com/Word-of-the-Day.htm
+https://www.thefreedictionary.com/help.htm
+https://www.thefreedictionary.com/_/help/help1.htm
+https://www.thefreedictionary.com/_/archive.htm
+https://www.thefreedictionary.com/_/help/help2.htm
+https://www.thefreedictionary.com/dictionary.htm
+https://www.thefreedictionary.com/_/help/help4.htm
+https://www.thefreedictionary.com/Word-Finder.htm
+https://www.thefreedictionary.com/about.htm
+https://www.thefreedictionary.com/privacy-policy.htm
+https://www.thefreedictionary.com/advertise-with-us.htm

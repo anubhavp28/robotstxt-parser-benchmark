@@ -1,0 +1,14 @@
+https://www.bittorrent.com
+https://www.bittorrent.com/btt/?utm_source=bittorrent-top-nav
+https://www.bittorrent.com/downloads/complete/track/stable/os/win?utm_source=bittorrent&utm_medium=web&utm_content=getapp&utm_campaign=maincta
+https://www.bittorrent.com/legal/terms-of-use
+https://www.bittorrent.com/legal/copyright
+https://www.bittorrent.com/company/about
+https://www.bittorrent.com/legal/eula
+https://www.bittorrent.com/company/about/jobs
+https://www.bittorrent.com/bittorrent-free
+https://www.bittorrent.com/legal/privacy
+https://www.bittorrent.com/bittorrent-pro
+https://www.bittorrent.com/bittorrent-android
+https://www.bittorrent.com/legal/now-terms-of-use
+https://www.bittorrent.com/bittorrent-remote

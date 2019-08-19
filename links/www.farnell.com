@@ -1,0 +1,17 @@
+https://www.farnell.com
+https://www.farnell.com/corporate/
+https://www.farnell.com/newark/
+https://www.farnell.com/element14/
+https://www.farnell.com/where-we-operate/
+https://www.farnell.com/emea/
+https://www.farnell.com/our-heritage/
+https://www.farnell.com/products-and-expertise/
+https://www.farnell.com/careers/vacancies/
+https://www.farnell.com/careers/policies/
+https://www.farnell.com/privacy-policy/
+https://www.farnell.com/cookies/
+https://www.farnell.com/terms/
+https://www.farnell.com/careers/
+https://www.farnell.com/preparation-for-brexit/
+https://www.farnell.com/accessibility/
+https://www.farnell.com/disclaimer/

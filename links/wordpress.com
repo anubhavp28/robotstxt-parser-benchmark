@@ -1,0 +1,10 @@
+https://wordpress.com
+https://wordpress.com/features/
+https://wordpress.com/pricing/
+https://wordpress.com/start?ref=homepage
+https://wordpress.com/start/business?ref=homepage
+https://wordpress.com/start/free?ref=homepage
+https://wordpress.com/themes
+https://wordpress.com/start/personal?ref=homepage
+https://wordpress.com/about/
+https://wordpress.com/start/premium?ref=homepage

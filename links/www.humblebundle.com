@@ -1,0 +1,10 @@
+https://www.humblebundle.com
+https://www.humblebundle.com/monthly
+https://www.humblebundle.com/terms
+https://www.humblebundle.com/privacy
+https://www.humblebundle.com/refer?hmb_source=footer&hmb_medium=footer_refer&hmb_campaign=refer_a_friend
+https://www.humblebundle.com/resender
+https://www.humblebundle.com/developer
+https://www.humblebundle.com/cookie-policy
+https://www.humblebundle.com/store
+https://www.humblebundle.com/legal

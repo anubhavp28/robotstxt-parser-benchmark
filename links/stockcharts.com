@@ -1,0 +1,17 @@
+https://stockcharts.com
+https://stockcharts.com/checkout/freetrial/
+https://stockcharts.com/h-mem/useralertsummary.html
+https://stockcharts.com/freecharts/
+https://stockcharts.com/support/techsupport.html
+https://stockcharts.com/articles/
+https://stockcharts.com/tv/
+https://stockcharts.com/pricing/index.html
+https://stockcharts.com/checkout/rejoin/
+https://stockcharts.com/newsletter/
+https://stockcharts.com/about/
+https://stockcharts.com/pricing/
+https://stockcharts.com/freecharts/catalog/
+https://stockcharts.com/press/
+https://stockcharts.com/sitemap.html
+https://stockcharts.com/careers/
+https://stockcharts.com/advertise/

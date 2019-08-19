@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /web/
+Disallow: /app/
+Disallow: /api/
+Disallow: /en/
+Disallow: /tv/
+Disallow: /mlb/
+Disallow: /share/ 
+Disallow: /embed/
+Disallow: /tokens/
+Sitemap: https://www.mlb.com/sitemap/archive/en/sitemap.xml.gz
+Sitemap: https://www.mlb.com/sitemap/archive/es/sitemap.xml.gz
+Sitemap: https://www.mlb.com/sitemap/video/en/sitemap.xml.gz
+Sitemap: https://www.mlb.com/sitemap/video/es/sitemap.xml.gz
+Sitemap: https://www.mlb.com/sitemap/static/sitemap.xml

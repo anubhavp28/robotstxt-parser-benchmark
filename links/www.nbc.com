@@ -1,0 +1,14 @@
+https://www.nbc.com
+https://www.nbc.com/shows/all/popular
+https://www.nbc.com/networks
+https://www.nbc.com/apps
+https://www.nbc.com/tickets/pages/tickets-and-nbc-studio-tour
+https://www.nbc.com/general/pages/accessibility
+https://www.nbc.com/mvpd-picker
+https://www.nbc.com/exclusives/pages/casting
+https://www.nbc.com/schedule
+https://www.nbc.com/general/pages/terms
+https://www.nbc.com/general/pages/advertise
+https://www.nbc.com/global/pages/tv-ratings
+https://www.nbc.com/general/pages/closed-captioning
+https://www.nbc.com/general/pages/vppa

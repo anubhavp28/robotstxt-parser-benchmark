@@ -1,0 +1,15 @@
+https://www.cj.com
+https://www.cj.com/careers
+https://www.cj.com/login
+https://www.cj.com/contact-us
+https://www.cj.com/advertiser
+https://www.cj.com/publisher
+https://www.cj.com/success-stories
+https://www.cj.com/about-us
+https://www.cj.com/events
+https://www.cj.com/cju
+https://www.cj.com/what-is-affiliate-marketing
+https://www.cj.com/agency
+https://www.cj.com/nexus-tax
+https://www.cj.com/support
+https://www.cj.com/legal/terms

@@ -1,0 +1,12 @@
+https://www.tineye.com
+https://www.tineye.com/technology
+https://www.tineye.com/about
+https://www.tineye.com/products
+https://www.tineye.com/service_select
+https://www.tineye.com/how
+https://www.tineye.com/extensions
+https://www.tineye.com/faq
+https://www.tineye.com/register
+https://www.tineye.com/clients
+https://www.tineye.com/press
+https://www.tineye.com/terms

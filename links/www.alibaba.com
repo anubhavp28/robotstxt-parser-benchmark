@@ -1,0 +1,17 @@
+https://www.alibaba.com
+https://www.alibaba.com/bulk?tracelog=fromhomeheader
+https://www.alibaba.com/Packaging-Printing_p23
+https://www.alibaba.com/Consumer-Electronics_p44
+https://www.alibaba.com/Apparel_p3
+https://www.alibaba.com/Home-Kitchen_p15
+https://www.alibaba.com/Beauty-Personal-Care_p66
+https://www.alibaba.com/Machinery_p43
+https://www.alibaba.com/sitemap.html?tracelog=footer_sitemap
+https://www.alibaba.com/Vehicles-Accessories_p34
+https://www.alibaba.com/sitemap.html
+https://www.alibaba.com/Products?cd=buyhome&tracelog=footer_categories
+https://www.alibaba.com/Products?tracelog=footer_products
+https://www.alibaba.com/bulk?tracelog=fromhomepagefooter
+https://www.alibaba.com/showroom/showroom.html
+https://www.alibaba.com/countrysearch/continent.html
+https://www.alibaba.com/suppliers/supplier.html

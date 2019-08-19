@@ -1,0 +1,13 @@
+https://www.gamespot.com
+https://www.gamespot.com/gamespot-50/
+https://www.gamespot.com/reviews/age-of-wonders-planetfall-review/1900-6417265/
+https://www.gamespot.com/doom-eternal/
+https://www.gamespot.com/star-wars-jedi-fallen-order/
+https://www.gamespot.com/the-last-of-us-part-ii/
+https://www.gamespot.com/reviews/mutant-year-zero-road-to-eden-review-nintendo-swit/1900-6417050/
+https://www.gamespot.com/reviews/madden-nfl-20-review-big-play/1900-6417263/
+https://www.gamespot.com/reviews/warframe-review-2019-space-oddity/1900-6417233/
+https://www.gamespot.com/reviews/sky-children-of-the-light-review-flying-free/1900-6417262/
+https://www.gamespot.com/help/
+https://www.gamespot.com/reviews/wolfenstein-youngblood-nintendo-switch-review/1900-6417260/
+https://www.gamespot.com/shows/gamespot-live/

@@ -1,0 +1,11 @@
+https://www.myfitnesspal.com
+https://www.myfitnesspal.com/account/login
+https://www.myfitnesspal.com/account/create
+https://www.myfitnesspal.com/welcome/learn_more
+https://www.myfitnesspal.com/exercise/lookup
+https://www.myfitnesspal.com/premium?source=menu_bar
+https://www.myfitnesspal.com/contact-us
+https://www.myfitnesspal.com/apps
+https://www.myfitnesspal.com/api
+https://www.myfitnesspal.com/jobs
+https://www.myfitnesspal.com/community-guidelines

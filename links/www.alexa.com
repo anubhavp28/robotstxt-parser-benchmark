@@ -1,0 +1,12 @@
+https://www.alexa.com
+https://www.alexa.com/clientlogin
+https://www.alexa.com/about
+https://www.alexa.com/siteinfo
+https://www.alexa.com/help/privacy
+https://www.alexa.com/toolbar
+https://www.alexa.com/help/terms
+https://www.alexa.com/about/management
+https://www.alexa.com/find-similar-sites
+https://www.alexa.com/plans
+https://www.alexa.com/about/careers
+https://www.alexa.com/topsites

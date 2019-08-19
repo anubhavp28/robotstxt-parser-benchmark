@@ -1,0 +1,14 @@
+http://www.internetdownloadmanager.com
+http://www.internetdownloadmanager.com/support/index.html
+http://www.internetdownloadmanager.com/news.html
+http://www.internetdownloadmanager.com/language.html
+http://www.internetdownloadmanager.com/support/idm-grabber/idm_grabber.html
+http://www.internetdownloadmanager.com/support/idm-scheduler/idm_scheduler.html
+http://www.internetdownloadmanager.com/support/about_us.html
+http://www.internetdownloadmanager.com/support/using_idm/using_idm.html
+http://www.internetdownloadmanager.com/fullscr.html
+http://www.internetdownloadmanager.com/testimonials/1.html
+http://www.internetdownloadmanager.com/affiliate.html
+http://www.internetdownloadmanager.com/idm-video.html
+http://www.internetdownloadmanager.com/support/terms-and-conditions.html
+http://www.internetdownloadmanager.com/support/privacy.html

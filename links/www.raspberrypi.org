@@ -1,0 +1,14 @@
+https://www.raspberrypi.org
+https://www.raspberrypi.org/products/
+https://www.raspberrypi.org/community/
+https://www.raspberrypi.org/blog/
+https://www.raspberrypi.org/downloads/
+https://www.raspberrypi.org/help/
+https://www.raspberrypi.org/forums/
+https://www.raspberrypi.org/education/
+https://www.raspberrypi.org/products/raspberry-pi-4-model-b/
+https://www.raspberrypi.org/blog/use-playstation-buzz-controllers-with-a-raspberry-pi/
+https://www.raspberrypi.org/blog/we-asked-our-engineers-your-raspberry-pi-4-questions/
+https://www.raspberrypi.org/blog/real-time-train-station-arrival-board/
+https://www.raspberrypi.org/magpi/issues/84/
+https://www.raspberrypi.org/blog/pulling-shower-thoughts-from-reddit-for-a-raspberry-pi-e-paper-display/

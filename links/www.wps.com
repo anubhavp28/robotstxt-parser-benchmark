@@ -1,0 +1,13 @@
+https://www.wps.com
+https://www.wps.com/support
+https://www.wps.com/partners-oem
+https://www.wps.com/about-us
+https://www.wps.com/press
+https://www.wps.com/contact
+https://www.wps.com/eula
+https://www.wps.com/privacy-policy
+https://www.wps.com/cookie-declaration
+https://www.wps.com/affiliates
+https://www.wps.com/partners-links
+https://www.wps.com/strategic-partner
+https://www.wps.com/enterprise

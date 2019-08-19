@@ -1,0 +1,12 @@
+https://www.filefactory.com
+https://www.filefactory.com/services/premium/
+https://www.filefactory.com/legal/terms.php
+https://www.filefactory.com/legal/privacy.php
+https://www.filefactory.com/legal/fairusepolicy.php
+https://www.filefactory.com/services/affiliates/
+https://www.filefactory.com/member/signin.php
+https://www.filefactory.com/legal/dmca.php
+https://www.filefactory.com/legal/exploitation.php
+https://www.filefactory.com/legal/acceptableusepolicy.php
+https://www.filefactory.com/reseller/
+https://www.filefactory.com/legal/contact.php

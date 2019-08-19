@@ -1,0 +1,15 @@
+https://www.stamps.com
+https://www.stamps.com/radio/
+https://www.stamps.com/warehouse/
+https://www.stamps.com/postage-online/
+https://www.stamps.com/shipping/
+https://www.stamps.com/enterprise/
+https://www.stamps.com/postage-meters/
+https://www.stamps.com/shipping/integrations/
+https://www.stamps.com/download/
+https://www.stamps.com/company-info/
+https://www.stamps.com/privacy-policy/
+https://www.stamps.com/sitemap/
+https://www.stamps.com/affiliates/
+https://www.stamps.com/contact-us/
+https://www.stamps.com/site/copyright/

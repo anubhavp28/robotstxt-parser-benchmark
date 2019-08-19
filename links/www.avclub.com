@@ -1,0 +1,15 @@
+https://www.avclub.com
+https://www.avclub.com/search
+https://www.avclub.com/thomas-haden-church-has-never-seen-hellboy-or-idiocracy-1837051681
+https://www.avclub.com/c/newswire
+https://www.avclub.com/c/video
+https://www.avclub.com/c/review
+https://www.avclub.com/c/tv-review
+https://www.avclub.com/c/tv-review/black-mirror
+https://www.avclub.com/the-voices-of-jennifer-aniston-reese-witherspoon-stev-1837170502
+https://www.avclub.com/c/review/movie-review
+https://www.avclub.com/cats-and-water-don-t-mix-in-this-catwoman-14-exclusive-1837174301
+https://www.avclub.com/c/tv-review/the-deuce
+https://www.avclub.com/c/tv-review/the-crown
+https://www.avclub.com/c/video/interview
+https://www.avclub.com/c/review/book-review

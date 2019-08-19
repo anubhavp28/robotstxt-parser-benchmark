@@ -1,0 +1,41 @@
+# robots.txt
+
+User-agent: *
+Disallow: /zzz/
+Disallow: /assets/gov/taxes/property-taxes/annual-property-tax/municipality-regional-district-resources/
+Disallow: /en/search/
+Disallow: /local/gov/media/carousel/images.xml
+Disallow: /gov/search/results.page?*
+Disallow: /gov/search/results.page?
+Disallow: /gov/search*
+Disallow: /gov/content/*/search-details-*
+Disallow: /click*
+Disallow: /gov/feedback*
+Disallow: /gov/search?id=*&q=*
+Disallow: */*.swf
+Disallow: /gov/DownloadAsset?assetId=
+Disallow: /gov/DownloadAsset?*
+Disallow: /enSearch/mhdetail
+#HRSS
+Sitemap:  http://www2.gov.bc.ca/sitemap/sitemap_index.xml
+
+Disallow: /myhr/search_results.page?
+Disallow: /myhr/search_results.page?*
+Disallow: /myhr/search/results.page?*
+
+
+Disallow: /templatedata/
+
+Allow: /myhr/*&PageNumber=10
+Allow: /myhr/*&PageNumber=11
+Allow: /myhr/*&PageNumber=12
+Allow: /myhr/*&PageNumber=13
+Allow: /myhr/*&PageNumber=14
+Allow: /myhr/*&PageNumber=15
+Allow: /myhr/*&PageNumber=16
+Allow: /myhr/*&PageNumber=17
+Allow: /myhr/*&PageNumber=18
+Allow: /myhr/*&PageNumber=19
+
+Disallow: /myhr/*&PageNumber=1
+Disallow: /en/services_finder/service_handler.page

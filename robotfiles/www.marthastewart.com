@@ -1,0 +1,240 @@
+#
+# robots.txt
+#
+# This file is to prevent the crawling and indexing of certain parts
+# of your site by web crawlers and spiders run by sites like Yahoo!
+# and Google. By telling these "robots" where not to go on your site,
+# you save bandwidth and server resources.
+#
+# This file will be ignored unless it is at the root of your host:
+# Used:    http://example.com/robots.txt
+# Ignored: http://example.com/site/robots.txt
+#
+# For more information about the robots.txt standard, see:
+# http://www.robotstxt.org/robotstxt.html
+
+Sitemap: https://www.marthastewart.com/sitemap-video.xml
+Sitemap: https://www.marthastewart.com/sitemap.xml
+Sitemap: https://www.marthastewart.com/sitemap2.xml
+Sitemap: https://www.marthastewart.com/shop/sitemap.xml
+
+User-agent: *
+Crawl-delay: .5
+
+# CURRENTCMS
+Disallow: /includes/
+Disallow: /misc/
+Disallow: /modules/
+Disallow: /profiles/
+Disallow: /scripts/
+Disallow: /themes/
+Disallow: /admin/
+Disallow: /comment/reply/
+Disallow: /filter/tips/
+Disallow: /node/add/
+Disallow: /user/register/
+Disallow: /user/password/
+Disallow: /user/login/
+Disallow: /user/logout/
+Disallow: /node/*/view
+Disallow: /CHANGELOG.txt
+Disallow: /cron.php
+Disallow: /INSTALL.mysql.txt
+Disallow: /INSTALL.pgsql.txt
+Disallow: /INSTALL.sqlite.txt
+Disallow: /install.php
+Disallow: /INSTALL.txt
+Disallow: /LICENSE.txt
+Disallow: /MAINTAINERS.txt
+Disallow: /update.php
+Disallow: /UPGRADE.txt
+Disallow: /xmlrpc.php
+Disallow: /?q=admin/
+Disallow: /?q=comment/reply/
+Disallow: /?q=filter/tips/
+Disallow: /?q=node/add/
+Disallow: /?q=search/
+Disallow: /?q=user/password/
+Disallow: /?q=user/register/
+Disallow: /?q=user/login/
+Disallow: /?q=user/logout/
+Disallow: /?q=node/*/view
+Allow: /misc/*.css$
+Allow: /misc/*.css?
+Allow: /misc/*.js$
+Allow: /misc/*.js?
+Allow: /misc/*.gif
+Allow: /misc/*.jpg
+Allow: /misc/*.jpeg
+Allow: /misc/*.png
+Allow: /modules/*.css$
+Allow: /modules/*.css?
+Allow: /modules/*.js$
+Allow: /modules/*.js?
+Allow: /modules/*.gif
+Allow: /modules/*.jpg
+Allow: /modules/*.jpeg
+Allow: /modules/*.png
+Allow: /profiles/*.css$
+Allow: /profiles/*.css?
+Allow: /profiles/*.js$
+Allow: /profiles/*.js?
+Allow: /profiles/*.gif
+Allow: /profiles/*.jpg
+Allow: /profiles/*.jpeg
+Allow: /profiles/*.png
+Allow: /themes/*.css$
+Allow: /themes/*.css?
+Allow: /themes/*.js$
+Allow: /themes/*.js?
+Allow: /themes/*.gif
+Allow: /themes/*.jpg
+Allow: /themes/*.jpeg
+Allow: /themes/*.png
+
+# ONECMS
+Disallow: /*.jhtml
+Disallow: /*___itemUrl___
+Disallow: /embed
+Disallow: /oembed
+Disallow: /dyn/
+Disallow: /home/
+Disallow: /labs/
+Disallow: /order/
+Disallow: /child/
+Disallow: /photos/
+Disallow: /common/
+Disallow: /content/
+Disallow: /private/
+Disallow: /premium/
+Disallow: /partner/
+Disallow: /templates/
+Disallow: /community/kudos/
+Disallow: /community/user/
+Disallow: /templatedata/
+Disallow: /videos/theme/
+Disallow: /videos/widgets/
+
+# Content
+Disallow: /americanmade/
+Disallow: /?q=americanmade/
+Disallow: /*.pdf$
+Disallow: /*.swf$
+Disallow: /new-this-month
+Disallow: /search*
+Disallow: /shop/go.html*
+Disallow: /shop/*?s=
+Disallow: /shop/*?ins
+Disallow: /shop/filter-selection/
+
+
+User-agent: Googlebot
+# CURRENTCMS
+Disallow: /includes/
+Disallow: /misc/
+Disallow: /modules/
+Disallow: /profiles/
+Disallow: /scripts/
+Disallow: /themes/
+Disallow: /admin/
+Disallow: /comment/reply/
+Disallow: /filter/tips/
+Disallow: /node/add/
+Disallow: /user/register/
+Disallow: /user/password/
+Disallow: /user/login/
+Disallow: /user/logout/
+Disallow: /node/*/view
+Disallow: /CHANGELOG.txt
+Disallow: /cron.php
+Disallow: /INSTALL.mysql.txt
+Disallow: /INSTALL.pgsql.txt
+Disallow: /INSTALL.sqlite.txt
+Disallow: /install.php
+Disallow: /INSTALL.txt
+Disallow: /LICENSE.txt
+Disallow: /MAINTAINERS.txt
+Disallow: /update.php
+Disallow: /UPGRADE.txt
+Disallow: /xmlrpc.php
+Disallow: /?q=admin/
+Disallow: /?q=comment/reply/
+Disallow: /?q=filter/tips/
+Disallow: /?q=node/add/
+Disallow: /?q=search/
+Disallow: /?q=user/password/
+Disallow: /?q=user/register/
+Disallow: /?q=user/login/
+Disallow: /?q=user/logout/
+Disallow: /?q=node/*/view
+Allow: /misc/*.css$
+Allow: /misc/*.css?
+Allow: /misc/*.js$
+Allow: /misc/*.js?
+Allow: /misc/*.gif
+Allow: /misc/*.jpg
+Allow: /misc/*.jpeg
+Allow: /misc/*.png
+Allow: /modules/*.css$
+Allow: /modules/*.css?
+Allow: /modules/*.js$
+Allow: /modules/*.js?
+Allow: /modules/*.gif
+Allow: /modules/*.jpg
+Allow: /modules/*.jpeg
+Allow: /modules/*.png
+Allow: /profiles/*.css$
+Allow: /profiles/*.css?
+Allow: /profiles/*.js$
+Allow: /profiles/*.js?
+Allow: /profiles/*.gif
+Allow: /profiles/*.jpg
+Allow: /profiles/*.jpeg
+Allow: /profiles/*.png
+Allow: /themes/*.css$
+Allow: /themes/*.css?
+Allow: /themes/*.js$
+Allow: /themes/*.js?
+Allow: /themes/*.gif
+Allow: /themes/*.jpg
+Allow: /themes/*.jpeg
+Allow: /themes/*.png
+
+# ONECMS
+Disallow: /*.jhtml
+Disallow: /*___itemUrl___
+Disallow: /embed
+Disallow: /oembed
+Disallow: /dyn/
+Disallow: /home/
+Disallow: /labs/
+Disallow: /order/
+Disallow: /child/
+Disallow: /photos/
+Disallow: /common/
+Disallow: /content/
+Disallow: /private/
+Disallow: /premium/
+Disallow: /partner/
+Disallow: /templates/
+Disallow: /community/kudos/
+Disallow: /community/user/
+Disallow: /templatedata/
+Disallow: /videos/theme/
+Disallow: /videos/widgets/
+
+# Content
+Disallow: /syndication/
+Disallow: /americanmade/
+Disallow: /?q=americanmade/
+Disallow: /*.pdf$
+Disallow: /*.swf$
+Disallow: /new-this-month
+Disallow: /search*
+
+
+# Shop
+Disallow: /shop/go.html*
+Disallow: /shop/*?s=
+Disallow: /shop/*?ins
+Disallow: /shop/filter-selection/

@@ -1,0 +1,17 @@
+https://www.gap.com
+https://www.gap.com/stores
+https://www.gap.com/browse/category.do?cid=1127938
+https://www.gap.com/browse/category.do?cid=8792
+https://www.gap.com/browse/category.do?cid=5664
+https://www.gap.com/browse/category.do?cid=63863
+https://www.gap.com/browse/category.do?cid=14249
+https://www.gap.com/browse/category.do?cid=11900
+https://www.gap.com/browse/category.do?cid=1016138
+https://www.gap.com/browse/home.do?ssiteID=GAP
+https://www.gap.com/browse/category.do?cid=11437
+https://www.gap.com/browse/category.do?cid=6998
+https://www.gap.com/Asset_Archive/GPWeb/content/static-marketing/xbrand-edfs-content/edfsLegal-GP-Narvar101518.html?v=2
+https://www.gap.com/browse/home.do?ssiteID=GP_Footer
+https://www.gap.com/browse/category.do?cid=63895
+https://www.gap.com/browse/category.do?cid=95575
+https://www.gap.com/browse/category.do?cid=63896

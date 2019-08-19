@@ -1,0 +1,18 @@
+# ID: robots.txt 2006/01/17
+# Date Created: 2008-07-11
+# Date Modified: 2016-07-18/SB
+#
+# This is a file retrieved by webwalkers a.k.a. spiders that 
+# conform to a defacto standard.
+# See <URL:http://www.robotstxt.org/wc/exclusion.html#robotstxt>
+#
+# Any matching one of these patterns will be ignored by Search engine Crawlers.
+# Use the Disallow: statement to prevent crawlers from indexing specific directories.
+#
+# Format is:
+#       User-agent: <name of spider>
+#       Disallow: <nothing> | <path>
+# -----------------------------------------------------------------------------
+#
+User-agent: *
+Disallow: /
